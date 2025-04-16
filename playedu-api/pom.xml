@@ -111,7 +111,7 @@
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-json</artifactId>
-            <version>5.8.16</version>
+            <version>5.8.25</version>
         </dependency>
         <dependency>
             <groupId>cn.hutool</groupId>
@@ -121,7 +121,7 @@
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-core</artifactId>
-            <version>5.8.16</version>
+            <version>5.8.25</version>
         </dependency>
 
         <!-- Sa-Token 权限认证，在线文档：https://sa-token.cc -->
